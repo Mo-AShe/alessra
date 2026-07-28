@@ -1,0 +1,6 @@
+{
+  "name": "محل الاسراء - إدارة أدوات السباكة",
+  "description": "نظام إدارة المبيعات والمخزون والعملاء والتقارير لمحل الاسراء لأدوات السباكة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
