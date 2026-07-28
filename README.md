@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 Mo-AShe
 
-# Run and deploy your AI Studio app
+> A modern full-stack application with TypeScript, Bun, and Python integration
 
-This contains everything you need to run your app locally.
+[![GitHub Pages](https://img.shields.io/badge/Live_Demo-View_App-2ea44f?style=for-the-badge&logo=github)](https://yourusername.github.io/mo-ashe)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Bun](https://img.shields.io/badge/Bun-v1.0+-fbf0df?style=for-the-badge&logo=bun)](https://bun.sh)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.0+-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)](https://python.org)
 
-View your app in AI Studio: https://ai.studio/apps/a67b290a-bed8-498e-9597-43a602023f2f
+---
 
-## Run Locally
+## 📋 Table of Contents
+- [🌟 Features](#-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Quick Start](#-quick-start)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Environment Variables](#environment-variables)
+  - [Running the Application](#running-the-application)
+- [📦 Backend Setup (Python)](#-backend-setup-python)
+- [🔧 Available Scripts](#-available-scripts)
+- [🌐 Deployment](#-deployment)
+  - [GitHub Pages](#github-pages)
+  - [Vercel](#vercel)
+  - [Render](#render)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Support](#-support)
 
-**Prerequisites:**  Node.js
+---
 
+## 🌟 Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- ⚡ **Blazing Fast**: Built with Bun and Vite for optimal performance
+- 🎨 **Modern UI**: Responsive and interactive user interface
+- 🐍 **Python Backend**: Integrated Python scripts for data processing
+- 🔒 **Type Safe**: Full TypeScript support for both frontend and backend
+- 📦 **Modular Architecture**: Clean separation of concerns
+- 🌊 **Real-time Updates**: Live reload during development
+- 🚀 **Ready for Production**: Optimized build process
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **Vite** - Next Generation Frontend Tooling
+- **TypeScript** - Static Type Checking
+- **HTML5** + **CSS3** - Modern Web Standards
+
+### Backend
+- **Node.js/TypeScript** - `server.ts` for API endpoints
+- **Python** - Data processing and utilities
+- **Bun** - Fast JavaScript runtime & package manager
+
+### DevOps
+- **GitHub Pages** - Frontend hosting
+- **Render/Railway** - Backend hosting (optional)
+- **GitHub Actions** - CI/CD Pipeline
+
+---
+
+## 📁 Project Structure
